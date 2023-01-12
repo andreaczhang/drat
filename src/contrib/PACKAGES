@@ -1,0 +1,8 @@
+Package: qtwAcademic
+Version: 2023.1.12
+Depends: R (>= 4.0.0)
+Imports: fs
+Suggests: knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: eb119ce8ec1ce41430e89316d73aa408
+NeedsCompilation: no

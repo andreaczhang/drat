@@ -4,5 +4,5 @@ Depends: R (>= 4.0.0)
 Imports: fs
 Suggests: knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: eb119ce8ec1ce41430e89316d73aa408
+MD5sum: cf76c10a15bcba0d2e145a8bb55d1d21
 NeedsCompilation: no
